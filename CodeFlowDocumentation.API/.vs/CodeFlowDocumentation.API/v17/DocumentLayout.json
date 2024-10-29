@@ -1,0 +1,893 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\utility\\responsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\utility\\responsewrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\utility\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\utility\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\utility\\pdfexportutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\utility\\pdfexportutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\utility\\csvexportutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\utility\\csvexportutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\dtos\\exportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\dtos\\exportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\dtos\\tabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\dtos\\tabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\dtos\\storedproceduredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\dtos\\storedproceduredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\dtos\\apidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\dtos\\apidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\dtos\\stepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\dtos\\stepdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\dtos\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\modals\\column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\modals\\column.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\modals\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\modals\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\modals\\storedprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\modals\\storedprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\modals\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\modals\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\modals\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\modals\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\modals\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\modals\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.utils\\modals\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB0B571F-76B1-4895-8ED8-B8E147009441}|CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj|solutionrelative:codeflowdocumentation.utils\\modals\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2BD031-6CDB-424E-8425-0C5AC0263948}|CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.repository.abstraction\\iexportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2BD031-6CDB-424E-8425-0C5AC0263948}|CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj|solutionrelative:codeflowdocumentation.repository.abstraction\\iexportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2BD031-6CDB-424E-8425-0C5AC0263948}|CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.repository.abstraction\\itablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2BD031-6CDB-424E-8425-0C5AC0263948}|CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj|solutionrelative:codeflowdocumentation.repository.abstraction\\itablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2BD031-6CDB-424E-8425-0C5AC0263948}|CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.repository.abstraction\\istoredprocedurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2BD031-6CDB-424E-8425-0C5AC0263948}|CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj|solutionrelative:codeflowdocumentation.repository.abstraction\\istoredprocedurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2BD031-6CDB-424E-8425-0C5AC0263948}|CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.repository.abstraction\\iapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2BD031-6CDB-424E-8425-0C5AC0263948}|CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj|solutionrelative:codeflowdocumentation.repository.abstraction\\iapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2BD031-6CDB-424E-8425-0C5AC0263948}|CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.repository.abstraction\\isteprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2BD031-6CDB-424E-8425-0C5AC0263948}|CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj|solutionrelative:codeflowdocumentation.repository.abstraction\\isteprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2BD031-6CDB-424E-8425-0C5AC0263948}|CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.repository.abstraction\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2BD031-6CDB-424E-8425-0C5AC0263948}|CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj|solutionrelative:codeflowdocumentation.repository.abstraction\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD2BD031-6CDB-424E-8425-0C5AC0263948}|CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.repository.abstraction\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2BD031-6CDB-424E-8425-0C5AC0263948}|CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj|solutionrelative:codeflowdocumentation.repository.abstraction\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FFC41-90A4-4DEC-BF82-59974B23AE83}|CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.repository.implementation\\exportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FFC41-90A4-4DEC-BF82-59974B23AE83}|CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj|solutionrelative:codeflowdocumentation.repository.implementation\\exportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FFC41-90A4-4DEC-BF82-59974B23AE83}|CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.repository.implementation\\tablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FFC41-90A4-4DEC-BF82-59974B23AE83}|CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj|solutionrelative:codeflowdocumentation.repository.implementation\\tablerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FFC41-90A4-4DEC-BF82-59974B23AE83}|CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.repository.implementation\\storedprocedurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FFC41-90A4-4DEC-BF82-59974B23AE83}|CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj|solutionrelative:codeflowdocumentation.repository.implementation\\storedprocedurerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FFC41-90A4-4DEC-BF82-59974B23AE83}|CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.repository.implementation\\apirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FFC41-90A4-4DEC-BF82-59974B23AE83}|CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj|solutionrelative:codeflowdocumentation.repository.implementation\\apirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FFC41-90A4-4DEC-BF82-59974B23AE83}|CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.repository.implementation\\steprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FFC41-90A4-4DEC-BF82-59974B23AE83}|CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj|solutionrelative:codeflowdocumentation.repository.implementation\\steprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FFC41-90A4-4DEC-BF82-59974B23AE83}|CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.repository.implementation\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FFC41-90A4-4DEC-BF82-59974B23AE83}|CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj|solutionrelative:codeflowdocumentation.repository.implementation\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822FFC41-90A4-4DEC-BF82-59974B23AE83}|CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.repository.implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{822FFC41-90A4-4DEC-BF82-59974B23AE83}|CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj|solutionrelative:codeflowdocumentation.repository.implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70398519-834B-485F-AAF7-522FA14F6792}|CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.services.abstraction\\iexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70398519-834B-485F-AAF7-522FA14F6792}|CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj|solutionrelative:codeflowdocumentation.services.abstraction\\iexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70398519-834B-485F-AAF7-522FA14F6792}|CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.services.abstraction\\itableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70398519-834B-485F-AAF7-522FA14F6792}|CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj|solutionrelative:codeflowdocumentation.services.abstraction\\itableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70398519-834B-485F-AAF7-522FA14F6792}|CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.services.abstraction\\istoredprocedureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70398519-834B-485F-AAF7-522FA14F6792}|CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj|solutionrelative:codeflowdocumentation.services.abstraction\\istoredprocedureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70398519-834B-485F-AAF7-522FA14F6792}|CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.services.abstraction\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70398519-834B-485F-AAF7-522FA14F6792}|CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj|solutionrelative:codeflowdocumentation.services.abstraction\\iapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70398519-834B-485F-AAF7-522FA14F6792}|CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.services.abstraction\\istepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70398519-834B-485F-AAF7-522FA14F6792}|CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj|solutionrelative:codeflowdocumentation.services.abstraction\\istepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70398519-834B-485F-AAF7-522FA14F6792}|CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.services.abstraction\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70398519-834B-485F-AAF7-522FA14F6792}|CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj|solutionrelative:codeflowdocumentation.services.abstraction\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70398519-834B-485F-AAF7-522FA14F6792}|CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.services.abstraction\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70398519-834B-485F-AAF7-522FA14F6792}|CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj|solutionrelative:codeflowdocumentation.services.abstraction\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.api\\controllers\\exportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|solutionrelative:codeflowdocumentation.api\\controllers\\exportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.api\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|solutionrelative:codeflowdocumentation.api\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.api\\controllers\\storedprocedurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|solutionrelative:codeflowdocumentation.api\\controllers\\storedprocedurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|solutionrelative:codeflowdocumentation.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.api\\controllers\\stepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|solutionrelative:codeflowdocumentation.api\\controllers\\stepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|solutionrelative:codeflowdocumentation.api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|solutionrelative:codeflowdocumentation.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|solutionrelative:codeflowdocumentation.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|solutionrelative:codeflowdocumentation.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.api\\codeflowdocumentation.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|solutionrelative:codeflowdocumentation.api\\codeflowdocumentation.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0849e941-4665-42e5-8dd0-e4c8da15dbd0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResponseWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Utility\\ResponseWrapper.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\Utility\\ResponseWrapper.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Utility\\ResponseWrapper.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\Utility\\ResponseWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:06:51.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Utility\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\Utility\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Utility\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\Utility\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:06:41.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfExportUtility.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Utility\\PdfExportUtility.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\Utility\\PdfExportUtility.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Utility\\PdfExportUtility.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\Utility\\PdfExportUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:06:30.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsvExportUtility.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Utility\\CsvExportUtility.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\Utility\\CsvExportUtility.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Utility\\CsvExportUtility.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\Utility\\CsvExportUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:06:01.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExportDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\DTOs\\ExportDTO.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\DTOs\\ExportDTO.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\DTOs\\ExportDTO.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\DTOs\\ExportDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:04:20.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TableDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\DTOs\\TableDTO.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\DTOs\\TableDTO.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\DTOs\\TableDTO.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\DTOs\\TableDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:04:10.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoredProcedureDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\DTOs\\StoredProcedureDTO.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\DTOs\\StoredProcedureDTO.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\DTOs\\StoredProcedureDTO.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\DTOs\\StoredProcedureDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:04:00.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\DTOs\\ApiDTO.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\DTOs\\ApiDTO.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\DTOs\\ApiDTO.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\DTOs\\ApiDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:03:49.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StepDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\DTOs\\StepDTO.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\DTOs\\StepDTO.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\DTOs\\StepDTO.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\DTOs\\StepDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:03:39.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\DTOs\\EventDTO.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\DTOs\\EventDTO.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\DTOs\\EventDTO.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\DTOs\\EventDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:03:23.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:03:14.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Column.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Modals\\Column.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\Modals\\Column.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Modals\\Column.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\Modals\\Column.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:02:50.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Modals\\Table.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\Modals\\Table.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Modals\\Table.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\Modals\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:02:33.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StoredProcedure.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Modals\\StoredProcedure.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\Modals\\StoredProcedure.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Modals\\StoredProcedure.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\Modals\\StoredProcedure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:02:21.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Api.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Modals\\Api.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\Modals\\Api.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Modals\\Api.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\Modals\\Api.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:02:11.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Step.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Modals\\Step.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\Modals\\Step.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Modals\\Step.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\Modals\\Step.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:02:00.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Modals\\Event.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\Modals\\Event.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Modals\\Event.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\Modals\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:01:39.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Modals\\Product.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Utils\\Modals\\Product.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\Modals\\Product.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Utils\\Modals\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:01:27.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IExportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\IExportRepository.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Repository.Abstraction\\IExportRepository.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\IExportRepository.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Repository.Abstraction\\IExportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:01:04.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ITableRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\ITableRepository.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Repository.Abstraction\\ITableRepository.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\ITableRepository.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Repository.Abstraction\\ITableRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:00:54.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IStoredProcedureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\IStoredProcedureRepository.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Repository.Abstraction\\IStoredProcedureRepository.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\IStoredProcedureRepository.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Repository.Abstraction\\IStoredProcedureRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:00:42.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IApiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\IApiRepository.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Repository.Abstraction\\IApiRepository.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\IApiRepository.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Repository.Abstraction\\IApiRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:00:32.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IStepRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\IStepRepository.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Repository.Abstraction\\IStepRepository.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\IStepRepository.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Repository.Abstraction\\IStepRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:00:18.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Repository.Abstraction\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\IEventRepository.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Repository.Abstraction\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T09:00:07.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Repository.Abstraction\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\IProductRepository.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Repository.Abstraction\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:59:56.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\ExportRepository.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Repository.Implementation\\ExportRepository.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\ExportRepository.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Repository.Implementation\\ExportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:59:40.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TableRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\TableRepository.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Repository.Implementation\\TableRepository.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\TableRepository.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Repository.Implementation\\TableRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:59:28.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StoredProcedureRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\StoredProcedureRepository.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Repository.Implementation\\StoredProcedureRepository.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\StoredProcedureRepository.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Repository.Implementation\\StoredProcedureRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:59:16.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\ApiRepository.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Repository.Implementation\\ApiRepository.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\ApiRepository.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Repository.Implementation\\ApiRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:59:05.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StepRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\StepRepository.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Repository.Implementation\\StepRepository.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\StepRepository.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Repository.Implementation\\StepRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:58:55.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\EventRepository.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Repository.Implementation\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\EventRepository.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Repository.Implementation\\EventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:58:41.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Repository.Implementation\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\ProductRepository.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Repository.Implementation\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:58:29.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IExportService.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\IExportService.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Services.Abstraction\\IExportService.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\IExportService.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Services.Abstraction\\IExportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:57:22.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ITableService.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\ITableService.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Services.Abstraction\\ITableService.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\ITableService.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Services.Abstraction\\ITableService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:57:09.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IStoredProcedureService.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\IStoredProcedureService.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Services.Abstraction\\IStoredProcedureService.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\IStoredProcedureService.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Services.Abstraction\\IStoredProcedureService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:57:00.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IApiService.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\IApiService.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Services.Abstraction\\IApiService.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\IApiService.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Services.Abstraction\\IApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:56:48.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IStepService.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\IStepService.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Services.Abstraction\\IStepService.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\IStepService.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Services.Abstraction\\IStepService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:56:32.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\IEventService.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Services.Abstraction\\IEventService.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\IEventService.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Services.Abstraction\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:56:10.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\IProductService.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.Services.Abstraction\\IProductService.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\IProductService.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.Services.Abstraction\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:55:55.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ExportController.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\ExportController.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.API\\Controllers\\ExportController.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\ExportController.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.API\\Controllers\\ExportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:33:29.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\TableController.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.API\\Controllers\\TableController.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\TableController.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.API\\Controllers\\TableController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:33:09.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "StoredProcedureController.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\StoredProcedureController.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.API\\Controllers\\StoredProcedureController.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\StoredProcedureController.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.API\\Controllers\\StoredProcedureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:32:53.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.API\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.API\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:32:37.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StepController.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\StepController.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.API\\Controllers\\StepController.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\StepController.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.API\\Controllers\\StepController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:32:17.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.API\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\EventController.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.API\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:31:49.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:31:23.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CodeFlowDocumentation.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T06:55:54.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CodeFlowDocumentation.API.http",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API.http",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.API\\CodeFlowDocumentation.API.http",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API.http",
+              "RelativeToolTip": "CodeFlowDocumentation.API\\CodeFlowDocumentation.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-26T06:55:27.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\appsettings.json",
+              "RelativeToolTip": "CodeFlowDocumentation.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T06:29:04.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+services:
+  backend:
+    build: ./CodeFlowDocumentation.API
+    container_name: codeflow-backend
+    ports:
+      - "5000:80"
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=SS-BLR-AMITESH\\AMITESHSERVER;Database=CodeFlowDB;User=sa;Password=Amitesh13;TrustServerCertificate=True;
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  frontend:
+    build: ./code-flow-frontend
+    container_name: codeflow-frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend

@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "CodeFlowDocumentation.Repository.Abstraction/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "CodeFlowDocumentation.Utils": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CodeFlowDocumentation.Repository.Abstraction.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CodeFlowDocumentation.Repository.Abstraction.dll": {}
+        }
+      },
+      "CodeFlowDocumentation.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CodeFlowDocumentation.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CodeFlowDocumentation.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeFlowDocumentation.Repository.Abstraction/1.0.0": {
+      "type": "project",
+      "path": "../CodeFlowDocumentation.Repository.Abstraction/CodeFlowDocumentation.Repository.Abstraction.csproj",
+      "msbuildProject": "../CodeFlowDocumentation.Repository.Abstraction/CodeFlowDocumentation.Repository.Abstraction.csproj"
+    },
+    "CodeFlowDocumentation.Utils/1.0.0": {
+      "type": "project",
+      "path": "../CodeFlowDocumentation.Utils/CodeFlowDocumentation.Utils.csproj",
+      "msbuildProject": "../CodeFlowDocumentation.Utils/CodeFlowDocumentation.Utils.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "CodeFlowDocumentation.Repository.Abstraction >= 1.0.0",
+      "CodeFlowDocumentation.Utils >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\AmiteshKumarBA\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj",
+      "projectName": "CodeFlowDocumentation.Repository.Implementation",
+      "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj",
+      "packagesPath": "C:\\Users\\AmiteshKumarBA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\AmiteshKumarBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://cpaperless.pkgs.visualstudio.com/_packaging/SafeSendReturns.Components.Core/nuget/v3/index.json": {},
+        "https://cpaperless.pkgs.visualstudio.com/_packaging/cPaperless.Components.Core/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj": {
+              "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Abstraction\\CodeFlowDocumentation.Repository.Abstraction.csproj"
+            },
+            "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj": {
+              "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

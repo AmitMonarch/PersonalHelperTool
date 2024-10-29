@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CodeFlowDocumentation.API.props" />
+</Project>

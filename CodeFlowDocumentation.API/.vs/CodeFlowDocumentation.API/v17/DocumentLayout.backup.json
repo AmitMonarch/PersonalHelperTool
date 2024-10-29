@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|solutionrelative:codeflowdocumentation.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.api\\controllers\\healthcheckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|solutionrelative:codeflowdocumentation.api\\controllers\\healthcheckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|solutionrelative:codeflowdocumentation.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|c:\\users\\amiteshkumarba\\desktop\\codeflowdocumentation\\codeflowdocumentation.api\\codeflowdocumentation.api\\codeflowdocumentation.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}|CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj|solutionrelative:codeflowdocumentation.api\\codeflowdocumentation.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0849e941-4665-42e5-8dd0-e4c8da15dbd0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthCheckController.cs",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\HealthCheckController.cs",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.API\\Controllers\\HealthCheckController.cs",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Controllers\\HealthCheckController.cs",
+              "RelativeToolTip": "CodeFlowDocumentation.API\\Controllers\\HealthCheckController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T07:23:07.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CodeFlowDocumentation.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T06:55:54.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CodeFlowDocumentation.API.http",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API.http",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.API\\CodeFlowDocumentation.API.http",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API.http",
+              "RelativeToolTip": "CodeFlowDocumentation.API\\CodeFlowDocumentation.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-26T06:55:27.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFlowDocumentation.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\appsettings.json",
+              "RelativeToolTip": "CodeFlowDocumentation.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T06:29:04.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

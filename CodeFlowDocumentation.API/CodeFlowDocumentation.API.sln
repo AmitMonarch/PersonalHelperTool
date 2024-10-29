@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFlowDocumentation.API", "CodeFlowDocumentation.API\CodeFlowDocumentation.API.csproj", "{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CodeFlowDocumentation.Core", "CodeFlowDocumentation.Core", "{186F3CAA-D7F4-4CB0-A6A9-B27219FF4BF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFlowDocumentation.Repository.Abstraction", "CodeFlowDocumentation.Repository.Abstraction\CodeFlowDocumentation.Repository.Abstraction.csproj", "{CD2BD031-6CDB-424E-8425-0C5AC0263948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFlowDocumentation.Repository.Implementation", "CodeFlowDocumentation.Repository.Implementation\CodeFlowDocumentation.Repository.Implementation.csproj", "{822FFC41-90A4-4DEC-BF82-59974B23AE83}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CD2BD031-6CDB-424E-8425-0C5AC0263948} = {CD2BD031-6CDB-424E-8425-0C5AC0263948}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFlowDocumentation.Services.Abstraction", "CodeFlowDocumentation.Services.Abstraction\CodeFlowDocumentation.Services.Abstraction.csproj", "{70398519-834B-485F-AAF7-522FA14F6792}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CB0B571F-76B1-4895-8ED8-B8E147009441} = {CB0B571F-76B1-4895-8ED8-B8E147009441}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFlowDocumentation.Services.Implementation", "CodeFlowDocumentation.Services.Implementation\CodeFlowDocumentation.Services.Implementation.csproj", "{1B74476C-4F96-4F8E-BC06-4B857379B62E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{70398519-834B-485F-AAF7-522FA14F6792} = {70398519-834B-485F-AAF7-522FA14F6792}
+		{822FFC41-90A4-4DEC-BF82-59974B23AE83} = {822FFC41-90A4-4DEC-BF82-59974B23AE83}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{02AA2767-1C43-4A95-B820-DEF448E17D6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{3A8427AB-7443-47FF-ABA0-F07136113EC2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utils", "Utils", "{72023260-9A47-4C05-9ADE-8CF5D90BCA9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFlowDocumentation.Utils", "CodeFlowDocumentation.Utils\CodeFlowDocumentation.Utils.csproj", "{CB0B571F-76B1-4895-8ED8-B8E147009441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35830C7B-B9B0-4670-BF7C-A0ED59A9AA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD2BD031-6CDB-424E-8425-0C5AC0263948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2BD031-6CDB-424E-8425-0C5AC0263948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2BD031-6CDB-424E-8425-0C5AC0263948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2BD031-6CDB-424E-8425-0C5AC0263948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{822FFC41-90A4-4DEC-BF82-59974B23AE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{822FFC41-90A4-4DEC-BF82-59974B23AE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{822FFC41-90A4-4DEC-BF82-59974B23AE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{822FFC41-90A4-4DEC-BF82-59974B23AE83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70398519-834B-485F-AAF7-522FA14F6792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70398519-834B-485F-AAF7-522FA14F6792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70398519-834B-485F-AAF7-522FA14F6792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70398519-834B-485F-AAF7-522FA14F6792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B74476C-4F96-4F8E-BC06-4B857379B62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B74476C-4F96-4F8E-BC06-4B857379B62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B74476C-4F96-4F8E-BC06-4B857379B62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B74476C-4F96-4F8E-BC06-4B857379B62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB0B571F-76B1-4895-8ED8-B8E147009441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB0B571F-76B1-4895-8ED8-B8E147009441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB0B571F-76B1-4895-8ED8-B8E147009441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB0B571F-76B1-4895-8ED8-B8E147009441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD2BD031-6CDB-424E-8425-0C5AC0263948} = {02AA2767-1C43-4A95-B820-DEF448E17D6B}
+		{822FFC41-90A4-4DEC-BF82-59974B23AE83} = {02AA2767-1C43-4A95-B820-DEF448E17D6B}
+		{70398519-834B-485F-AAF7-522FA14F6792} = {3A8427AB-7443-47FF-ABA0-F07136113EC2}
+		{1B74476C-4F96-4F8E-BC06-4B857379B62E} = {3A8427AB-7443-47FF-ABA0-F07136113EC2}
+		{02AA2767-1C43-4A95-B820-DEF448E17D6B} = {186F3CAA-D7F4-4CB0-A6A9-B27219FF4BF8}
+		{3A8427AB-7443-47FF-ABA0-F07136113EC2} = {186F3CAA-D7F4-4CB0-A6A9-B27219FF4BF8}
+		{72023260-9A47-4C05-9ADE-8CF5D90BCA9A} = {186F3CAA-D7F4-4CB0-A6A9-B27219FF4BF8}
+		{CB0B571F-76B1-4895-8ED8-B8E147009441} = {72023260-9A47-4C05-9ADE-8CF5D90BCA9A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDBDEDA0-2CAD-4614-B6F1-A562859D49A8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@CodeFlowDocumentation.API_HostAddress = http://localhost:5143
+
+GET {{CodeFlowDocumentation.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
