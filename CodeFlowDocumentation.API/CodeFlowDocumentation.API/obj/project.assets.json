@@ -2533,11 +2533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj",
+      "projectUniqueName": "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj",
       "projectName": "CodeFlowDocumentation.API",
-      "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj",
+      "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj",
       "packagesPath": "C:\\Users\\AmiteshKumarBA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\obj\\",
+      "outputPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AmiteshKumarBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2557,11 +2557,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Implementation\\CodeFlowDocumentation.Services.Implementation.csproj": {
-              "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Implementation\\CodeFlowDocumentation.Services.Implementation.csproj"
+            "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Implementation\\CodeFlowDocumentation.Services.Implementation.csproj": {
+              "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Implementation\\CodeFlowDocumentation.Services.Implementation.csproj"
             },
-            "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj": {
-              "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj"
+            "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj": {
+              "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj"
             }
           }
         }
@@ -2620,5 +2620,19 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://cpaperless.pkgs.visualstudio.com/_packaging/cPaperless.Components.Core/nuget/v3/index.json."
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://cpaperless.pkgs.visualstudio.com/_packaging/SafeSendReturns.Components.Core/nuget/v3/index.json."
+    }
+  ]
 }

@@ -89,11 +89,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Implementation\\CodeFlowDocumentation.Services.Implementation.csproj",
+      "projectUniqueName": "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Implementation\\CodeFlowDocumentation.Services.Implementation.csproj",
       "projectName": "CodeFlowDocumentation.Services.Implementation",
-      "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Implementation\\CodeFlowDocumentation.Services.Implementation.csproj",
+      "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Implementation\\CodeFlowDocumentation.Services.Implementation.csproj",
       "packagesPath": "C:\\Users\\AmiteshKumarBA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Implementation\\obj\\",
+      "outputPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Implementation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AmiteshKumarBA\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -113,14 +113,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj": {
-              "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj"
+            "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj": {
+              "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Repository.Implementation\\CodeFlowDocumentation.Repository.Implementation.csproj"
             },
-            "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj": {
-              "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj"
+            "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj": {
+              "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Services.Abstraction\\CodeFlowDocumentation.Services.Abstraction.csproj"
             },
-            "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj": {
-              "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj"
+            "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj": {
+              "projectPath": "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.Utils\\CodeFlowDocumentation.Utils.csproj"
             }
           }
         }

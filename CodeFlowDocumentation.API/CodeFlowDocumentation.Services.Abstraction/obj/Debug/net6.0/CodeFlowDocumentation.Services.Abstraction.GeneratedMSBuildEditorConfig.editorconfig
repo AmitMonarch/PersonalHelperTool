@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CodeFlowDocumentation.Services.Abstraction
-build_property.ProjectDir = C:\Users\AmiteshKumarBA\Desktop\CodeFlowDocumentation\CodeFlowDocumentation.API\CodeFlowDocumentation.Services.Abstraction\
+build_property.ProjectDir = C:\Users\AmiteshKumarBA\Desktop\PersonalHelperTool\CodeFlowDocumentation.API\CodeFlowDocumentation.Services.Abstraction\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

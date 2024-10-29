@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lP8jvfGdtMU=",
+  "dgSpecHash": "S5JZpIrFXwE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AmiteshKumarBA\\Desktop\\CodeFlowDocumentation\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj",
+  "projectFilePath": "C:\\Users\\AmiteshKumarBA\\Desktop\\PersonalHelperTool\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API\\CodeFlowDocumentation.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AmiteshKumarBA\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\AmiteshKumarBA\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -52,5 +52,18 @@
     "C:\\Users\\AmiteshKumarBA\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\AmiteshKumarBA\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://cpaperless.pkgs.visualstudio.com/_packaging/cPaperless.Components.Core/nuget/v3/index.json."
+    },
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://cpaperless.pkgs.visualstudio.com/_packaging/SafeSendReturns.Components.Core/nuget/v3/index.json."
+    }
+  ]
 }
