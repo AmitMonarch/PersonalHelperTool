@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeFlowDocumentation.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3538cf7b887b0a664634d0042bb8ae0bdd381086")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93ff54f9fbfc276cc5253edc673531d9b3ce8ee2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeFlowDocumentation.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeFlowDocumentation.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
