@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeFlowDocumentation.Services.Abstraction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5a2b94a68e848f61bce057ee5795bad8a826392")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3538cf7b887b0a664634d0042bb8ae0bdd381086")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeFlowDocumentation.Services.Abstraction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeFlowDocumentation.Services.Abstraction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
